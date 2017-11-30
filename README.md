@@ -1,6 +1,6 @@
 # js-delegateEvent-function
-A delegateEvent function base on javascript
-
+A delegateEvent function base on javascript（事件代理）
+ 
 Also support IE8
 #### 用法：
 ```javascript
